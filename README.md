@@ -1,5 +1,5 @@
 # Pigi.Captcha
-This is an simple to use Audio Captcha made for ASP.NET MVC
+This is a simple to use Audio Captcha made for ASP.NET MVC
 <H2>Requirements</H2>
 <ul>
 <li>
