@@ -50,3 +50,4 @@ Add this helper method to generate Audio Captcha.
 you can also customize more by setting 'CaptchaSettings' object properties, like image size, captcha style, enabling captcha user input...
 </li>
 </ul>
+<img src='https://github.com/pigivc/Pigi.Captcha/blob/master/Images/pigi.captcha.png' />
